@@ -1,0 +1,33 @@
+body {
+	background-color: #484437;
+	font-family: 'Droid Sans',sans-serif;
+	color: #f3f2ed;
+}
+
+h1, h2 {
+	color: #a8bde8;
+}
+
+a {
+	color: #f53a3a;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.highlight, dt {
+	color: #f8f654;
+}
+
+.italic {
+	font-style: italic;
+}
+
+#my-movies {
+	font-style: italic;
+}
+
+p:first-letter { 
+	font-size: 125%;
+}
